@@ -6,9 +6,7 @@
 trigger:
 - main
 
-pool:
-  vmImage: ubuntu-latest
-  demands: Self-Host
+pool: Self-Host
 
 steps:
 
